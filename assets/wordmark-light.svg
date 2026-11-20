@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="56" viewBox="0 0 320 56">
+  <g transform="translate(0, 4) scale(1.5)">
+    <rect width="32" height="32" rx="5" fill="#e0f580" stroke="#242521" stroke-width="1"/>
+    <path d="M9 7v18m14-18v18M9 16h14" stroke="#181916" stroke-width="4"/>
+    <path d="M0 13a3 3 0 0 1 0 6m32-6a3 3 0 0 0 0 6" fill="#ffffff"/>
+  </g>
+  <text x="64" y="40" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="34" font-weight="700" letter-spacing="-0.8">HallPass</text>
+</svg>
